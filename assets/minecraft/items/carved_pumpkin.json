@@ -73,6 +73,28 @@
           "type": "model",
           "model": "mccit:item/hats/fishermans_hat"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            7
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/fishing_boat"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/phantom_menace"
+        }
       }
     ]
   }

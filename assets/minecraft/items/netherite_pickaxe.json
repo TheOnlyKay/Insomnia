@@ -18,6 +18,17 @@
           "type": "model",
           "model": "mccit:item/pickaxe/guild_pick"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            2
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/pickaxe/magma_pickaxe"
+        }
       }
     ]
   }
