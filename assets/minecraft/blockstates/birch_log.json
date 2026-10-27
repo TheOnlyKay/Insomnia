@@ -5,110 +5,110 @@
         "model": "minecraft:block/variated/birch_log/0_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/1_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/2_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/3_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/4_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/5_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 1
+        "weight": 6
       },
       {
         "model": "minecraft:block/variated/birch_log/6_horizontal",
         "x": 90,
         "y": 90,
-        "weight": 10
+        "weight": 499
       }
     ],
     "axis=y": [
       {
         "model": "minecraft:block/variated/birch_log/0",
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/1",
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/2",
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/3",
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/4",
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/5",
-        "weight": 1
+        "weight": 6
       },
       {
         "model": "minecraft:block/variated/birch_log/6",
-        "weight": 10
+        "weight": 499
       }
     ],
     "axis=z": [
       {
         "model": "minecraft:block/variated/birch_log/0_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/1_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/2_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/3_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/4_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       },
       {
         "model": "minecraft:block/variated/birch_log/5_horizontal",
         "x": 90,
-        "weight": 1
+        "weight": 6
       },
       {
         "model": "minecraft:block/variated/birch_log/6_horizontal",
         "x": 90,
-        "weight": 10
+        "weight": 499
       }
     ]
   }
