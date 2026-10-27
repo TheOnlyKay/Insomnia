@@ -62,6 +62,17 @@
           "type": "model",
           "model": "mccit:item/hats/avernus_crown"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            6
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/fishermans_hat"
+        }
       }
     ]
   }
