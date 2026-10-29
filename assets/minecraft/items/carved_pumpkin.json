@@ -95,6 +95,17 @@
           "type": "model",
           "model": "mccit:item/hats/phantom_menace"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            9
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/fishing_backpack"
+        }
       }
     ]
   }
