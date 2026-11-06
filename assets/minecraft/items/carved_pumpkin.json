@@ -106,6 +106,17 @@
           "type": "model",
           "model": "mccit:item/hats/fishing_backpack"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            10
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/demise_skull"
+        }
       }
     ]
   }
