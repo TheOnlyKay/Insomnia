@@ -117,6 +117,17 @@
           "type": "model",
           "model": "mccit:item/hats/demise_skull"
         }
+      },
+      {
+        "when": {
+          "floats": [
+            11
+          ]
+        },
+        "model": {
+          "type": "model",
+          "model": "mccit:item/hats/baby_dragon"
+        }
       }
     ]
   }
